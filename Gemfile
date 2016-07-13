@@ -12,6 +12,9 @@ gem 'sqlite3', group: [:development, :test]
 # Use sqlite3 as the database for test
 gem 'pg', group: :production
 
+# Use for design added from class
+gem 'bootstrap-sass'
+
 # Add 12 factors
 gem 'rails_12factor', group: :production
 
